@@ -18,3 +18,5 @@ print("Min:", min(numbers))
 
 squared = [n ** 2 for n in numbers]
 print("Squared:", squared)
+
+print("1")
